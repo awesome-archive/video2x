@@ -1,0 +1,15 @@
+[submodule "third_party/librealesrgan_ncnn_vulkan"]
+	path = third_party/librealesrgan_ncnn_vulkan
+	url = https://github.com/k4yt3x/librealesrgan-ncnn-vulkan.git
+[submodule "third_party/ncnn"]
+	path = third_party/ncnn
+	url = https://github.com/Tencent/ncnn.git
+[submodule "third_party/spdlog"]
+	path = third_party/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "third_party/opencv"]
+	path = third_party/opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "third_party/boost"]
+	path = third_party/boost
+	url = https://github.com/boostorg/boost.git
